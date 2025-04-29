@@ -1,6 +1,6 @@
 ---
 title: "Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories"
-collection: publications
+collection: work
 category: preprints
 permalink: /publication/2024-10-22-paper-title-number-1
 excerpt: 'In this paper, we provide a construction of a Topological Quantum Field Theory
