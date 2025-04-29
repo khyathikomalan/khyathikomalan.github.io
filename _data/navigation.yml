@@ -11,11 +11,8 @@ main:
   - title: "Work"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks and Teaching"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Photos"
     url: /portfolio/
