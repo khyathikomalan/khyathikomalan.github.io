@@ -12,16 +12,17 @@ main:
     url: /publications/
 
   - title: "Talks and Teaching"
-    url: /talks/    
+    url: /talks/  
+
+  - title: "CV"
+    url: /cv/
     
-  - title: "Photos"
-    url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Photos"
+    url: /portfolio/
+    
     
   # - title: "CV"
   #   url: /cv-json/
