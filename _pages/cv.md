@@ -25,7 +25,7 @@ Selected Projects
   * Currently working on computing S and T matrices of these categories, and associating Hopf Algebras
 
 * December 2024 - Ongoing: Categorifying Wild Fusion Categories
-  * Investing ways to study Wild Knot Theory using Fusion Categories
+  * Investigating ways to study Wild Knot Theory using Fusion Categories
   
 Selected Awards and Honors
 ======
