@@ -62,9 +62,9 @@ Remark: This list would look *very* different if on a budget. The good thing is 
 * Tears in the Rain, The Weeknd
 * I Want Wind to Blow, The Microphones
 * 21st Century Schizoid Man, King Crimson
-* On Sight, Ye
+* Two Words, Ye
 * House of Balloons / Glass Table Girls, The Weeknd
-* Humdrum and Humble, Tears for Fears
+* What's Good, Tyler, The Creator
 * DUCKWORTH., Kendrick Lamar
 * Over My Dead Body, Drake
 * Self Control, Frank Ocean
