@@ -84,20 +84,22 @@ Honorable Mention: A Day in a Week in a Year, Billy Woods
 * Misery, Stephen King
 * The Life and Opinions of Tristram Shandy, Laurence Sterne
 
-## TV Shows
+## Favourite Episodes of _BoJack Horseman_
 
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
-* BoJack Horseman
+* "The View from Halfway Down" (Season 6, Episode 15)
+* "Free Churro" (Season 5, Episode 6)
+* "Fish Out Of Water" (Season 3, Episode 4)
+* "The Showstopper" (Season 5, Episode 11)
+* "Xerox of a Xerox" (Season 6, Episode 12)
+* "Nice While It Lasted" (Season 6, Episode 16)
+* "Time's Arrow" (Season 4, Episode 11)
+* "Stop the Presses" (Season 3, Episode 7)
+* "Good Damage" (Season 6, Episode 10)
+* "Ruthie" (Season 4, Episode 9)
 
-No mistakes were made in the above list.
+Honorable Mention: "Stupid Piece of Sh*t" (Season 4, Episode 6)
+
+
 
 
 
