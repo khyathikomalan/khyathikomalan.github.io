@@ -33,7 +33,7 @@ Selected Awards and Honors
 * Awarded the 2024 Morgan Ward Prize for my paper "Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories". This prize is awarded to Caltech freshmen or sophomores for providing a solution or significant contribution toward a solution for a problem. The entry is judged on the basis of the nature of the problem, originality, and elegance of the solution.
 * Awarded the 2022 Spirit of Ramanujan Fellowship, which I used to fund my participation in the Ross Mathematics Program.
 * Cleared the Qualifier Round of the Scholastic Test for Excellence in Mathematics (STEMS) hosted by CMI in 2022.
-* Qualified for Part II evaluation for National Standard Examination in Physics
+
 
 
 Publications
