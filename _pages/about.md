@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-i'm an [emergent ventures](https://www.mercatus.org/emergent-ventures) grantee, and participant in this year's [adjoint school](https://adjointschool.com/2025.html). previously, i was an undergrad at caltech studying math, but i'm currently on leave. 
+i'm a rising sophomore at caltech, an [emergent ventures](https://www.mercatus.org/emergent-ventures) grantee, and participant in this year's [adjoint school](https://adjointschool.com/2025.html). 
 
 i've been fascinated by the idea of applying category theory to understand the world better, from quantum physics to social relationships. i'm a strong believer in making abstract mathematical ideas accessible to all, especially people from a humanities background. to this end, my mathematical thinking has been greatly influenced by [eugenia cheng](https://eugeniacheng.com/). apart from my interest in math and physics, i enjoy thinking about different cultures, visual media, music, contemporary philosophy, true crime, drug legalization, and so much more — some of my thoughts can be found at my [blog](https://khyathikomalan.github.io/year-archive/). i'm currently working on a screenplay about invisibility. 
 
