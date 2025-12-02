@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* B.S. in Mathematics, California Institute of Technology (Caltech), Class of 2027 (on leave since Spring 2024)
+* B.S. in Mathematics, California Institute of Technology (Caltech), Class of 2028 (took a break from summer 2024, returned fall 2025)
 
 Selected Projects
 ======
@@ -24,8 +24,8 @@ Selected Projects
   * In this paper, we provide a construction of a Topological Quantum Field Theory from a Non-Hermitian Ribbon Fusion Category. This is a simple method that does not involve enriching over Fusion Categories, or using other complicated structures. To substantiate this construction, we also prove theorems on the Müger center, braiding, and spherical structure of such a fusion category
   * Currently working on computing S and T matrices of these categories, and associating Hopf Algebras
 
-* December 2024 - Ongoing: Categorifying Wild Fusion Categories
-  * Investigating ways to study Wild Knot Theory using Fusion Categories
+* January 2026 - Present:
+   * Investigating Double Categorical approaches to AQFT, categorifying types of vNAs, and applications to quantum computation
   
 Selected Awards and Honors
 ======
