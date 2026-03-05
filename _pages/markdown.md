@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Here are my "Top 10s" for a lot of random stuff, in no particular order (other than the fact that they're my favourite 10)
+Here are my "Top 10s" for a lot of random stuff, in no particular order.
 
 ## Albums/Mixtapes
 
