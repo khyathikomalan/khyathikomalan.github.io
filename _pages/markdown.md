@@ -46,15 +46,13 @@ Honorable Mentions: The Whale, Requiem for a Dream
 * Dunsmoor in Glassell Park
 * Hakata Izakaya Hero in West Los Angeles
 * MUSE in Santa Monica
-* Nobu Malibu (expensive but worth it at some point for the experience and the view)
+* Mala class
 * Holbox inside Mercado La Paloma
 * Jitlada Restaurant in Thai Town
 * Si! Mon on Venice Beach
 * Mariscos Jalisco (multiple locations)
 
-Honorable Mention: Moo's Craft Barbecue
-
-Remark: This list would look *very* different if on a budget. The good thing is Los Angeles has great food regardless.
+Honorable Mention: Moo's Craft Barbecue, Chong Qing Special Noodles
 
 ## Songs
 
