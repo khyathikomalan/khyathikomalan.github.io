@@ -1,0 +1,12 @@
+---
+title: "Double Categorical Approaches to AQFT I: Axiomatic Setup"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-01-12-paper-title-number-4
+excerpt: 'In operator-algebraic AQFT one routinely moves back and forth between two kinds of structure: inclusions of local algebras coming from inclusions of regions, and bimodules/intertwiners that implement the standard L2-based constructions used to compare and compose observables. The obstruction to making this interplay genuinely functorial is that there are two independent compositions (restriction along inclusions and fusion/transport along bimodules) and they must be compatible on commuting spacetime diagrams, which is exactly the situation a double category is designed to encode. Part I resolves this by building a spacetime double category and a von Neumann algebra double category inspired by previous work by Orendain, and by packaging an AQFT input as a pseudo double functor whose vertical part is the Haag-Kastler net and whose squares record the required compatibilities in a well-typed way forced by commutativity. We formulate the Haag-Kastler axioms in this setup, establish the coherence needed for the construction, and work out representative examples.'
+date: 2026-01-12
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2601.07807'
+citation: 'Komalan, K. (2025). Double Categorical Approaches to AQFT I: Axiomatic Setup. arXiv preprint arXiv:2601.07807.'
+---
+In operator-algebraic AQFT one routinely moves back and forth between two kinds of structure: inclusions of local algebras coming from inclusions of regions, and bimodules/intertwiners that implement the standard L2-based constructions used to compare and compose observables. The obstruction to making this interplay genuinely functorial is that there are two independent compositions (restriction along inclusions and fusion/transport along bimodules) and they must be compatible on commuting spacetime diagrams, which is exactly the situation a double category is designed to encode. Part I resolves this by building a spacetime double category and a von Neumann algebra double category inspired by previous work by Orendain, and by packaging an AQFT input as a pseudo double functor whose vertical part is the Haag-Kastler net and whose squares record the required compatibilities in a well-typed way forced by commutativity. We formulate the Haag-Kastler axioms in this setup, establish the coherence needed for the construction, and work out representative examples.
