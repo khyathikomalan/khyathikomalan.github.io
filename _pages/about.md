@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-i'm a sophomore majoring in math at caltech, where i study on a full scholarship made possible by the generosity of an [emergent ventures](https://www.mercatus.org/emergent-ventures) benefactor. this summer, i'm a research associate at topos institute where i'm thinking about double operadic theory of systems (DOTS). 
+i'm a rising junior majoring in math at caltech, where i study on a full scholarship made possible by the generosity of an [emergent ventures](https://www.mercatus.org/emergent-ventures) benefactor. this summer, i'm a research associate at topos institute where i'm thinking about double operadic theory of systems (DOTS). 
 
 i've been fascinated by the idea of applying category theory to understand the world better, from quantum physics to social relationships. i'm a strong believer in making abstract mathematical ideas accessible to all, especially people from a humanities background. to this end, my mathematical thinking has been greatly influenced by [eugenia cheng](https://eugeniacheng.com/) and [john baez](https://johncarlosbaez.wordpress.com/). apart from my interest in math and physics, i enjoy thinking about different cultures, visual media, music, contemporary philosophy, true crime, drug legalization, and so much more — some of my thoughts can be found at my [blog](https://khyathikomalan.github.io/year-archive/).
 
