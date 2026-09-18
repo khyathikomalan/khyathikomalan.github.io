@@ -67,7 +67,7 @@ Honourable Mention: Pasjoli, Mariscos Jalisco, Holbox inside Mercado La Paloma
 * Giving Bad People Good Ideas, Death Grips
 * Beware, Death Grips
 
-Honourable Mention: London Life, Fakemink; A Day in a Week in a Year, Billy Woods; I THINK, Tyler, the Creator
+Honourable Mention: London Life, Fakemink; A Day in a Week in a Year, Billy Woods; I THINK, Tyler, the Creator; Tears in the Rain, The Weeknd
 
 ## Books
 
