@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Here are my "Top 10s" for a lot of random stuff, in no particular order (last updated: Sep 18th, 2026)
+Here are my "Top 10s" for a lot of random stuff, in no particular order unless otherwise stated (last updated: Sep 18th, 2026)
 
 ## Albums/Mixtapes
 
