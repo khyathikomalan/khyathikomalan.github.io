@@ -22,6 +22,8 @@ Here are my "Top 10s" for a lot of random stuff, in no particular order (last up
 * In Rainbows, Radiohead
 * Wish You Were Here, Pink Floyd
 
+Honourable Mentions: Kiss Land, The Weeknd; Trilogy, The Weeknd
+
 ## Movies
 
 * Mulholland Dr, David Lynch (this is the greatest film of all time, my opinion will not be changing)
@@ -35,7 +37,7 @@ Here are my "Top 10s" for a lot of random stuff, in no particular order (last up
 * Blue Velvet, David Lynch
 * As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty, Jonas Mekas
 
-Honorable Mentions: The Whale, Requiem for a Dream
+Honourable Mentions: The Whale, Requiem for a Dream
 
 ## Restaurants in Los Angeles County
 
@@ -50,7 +52,7 @@ Honorable Mentions: The Whale, Requiem for a Dream
 * Jitlada Restaurant in Thai Town
 * Sonoratown (multiple locations)
 
-Honorable Mention: Pasjoli, Mariscos Jalisco, Holbox inside Mercado La Paloma
+Honourable Mention: Pasjoli, Mariscos Jalisco, Holbox inside Mercado La Paloma
 
 ## Songs
 
@@ -65,7 +67,7 @@ Honorable Mention: Pasjoli, Mariscos Jalisco, Holbox inside Mercado La Paloma
 * Giving Bad People Good Ideas, Death Grips
 * Beware, Death Grips
 
-Honorable Mention: London Life, Fakemink; A Day in a Week in a Year, Billy Woods; I THINK, Tyler, the Creator
+Honourable Mention: London Life, Fakemink; A Day in a Week in a Year, Billy Woods; I THINK, Tyler, the Creator
 
 ## Books
 
@@ -95,7 +97,7 @@ An earlier version of this list looked like I thought about it for 5 seconds. So
 * "Good Damage" (Season 6, Episode 10)
 * "Ruthie" (Season 4, Episode 9)
 
-Honorable Mention: "Stupid Piece of Sh*t" (Season 4, Episode 6)
+Honourable Mention: "Stupid Piece of Sh*t" (Season 4, Episode 6)
 
 
 
